@@ -1,0 +1,901 @@
+[
+    {
+        "label": "ConnectionManager",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "RequestError",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "importPath": "geoscada.client",
+        "description": "geoscada.client",
+        "isExtraImport": true,
+        "detail": "geoscada.client",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "Variant",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "VariantType",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "Variant",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "VariantType",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "Variant",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "VariantType",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "Variant",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "VariantType",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "geoscada.lib.variant",
+        "description": "geoscada.lib.variant",
+        "isExtraImport": true,
+        "detail": "geoscada.lib.variant",
+        "documentation": {}
+    },
+    {
+        "label": "QueryStatus",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "HistoricTag",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "ExtendedSourceFilter",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "HistoricTag",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "PropertyType",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectDetails",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "HistoricTag",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "ExtendedSourceFilter",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "HistoricTag",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "ExtendedSourceFilter",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "HistoricTag",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "ExtendedSourceFilter",
+        "importPath": "geoscada.client.types",
+        "description": "geoscada.client.types",
+        "isExtraImport": true,
+        "detail": "geoscada.client.types",
+        "documentation": {}
+    },
+    {
+        "label": "InterfaceScx",
+        "importPath": "geoscada.client.interface_scx",
+        "description": "geoscada.client.interface_scx",
+        "isExtraImport": true,
+        "detail": "geoscada.client.interface_scx",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "isExtraImport": true,
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "LogLevel",
+        "importPath": "geoscada.base.gs_logging",
+        "description": "geoscada.base.gs_logging",
+        "isExtraImport": true,
+        "detail": "geoscada.base.gs_logging",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "zlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zlib",
+        "description": "zlib",
+        "detail": "zlib",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectFlags",
+        "importPath": "geoscada.comms.misc",
+        "description": "geoscada.comms.misc",
+        "isExtraImport": true,
+        "detail": "geoscada.comms.misc",
+        "documentation": {}
+    },
+    {
+        "label": "Repo",
+        "importPath": "git",
+        "description": "git",
+        "isExtraImport": true,
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "EventsUpdatedEventArgs",
+        "importPath": "geoscada.client.event_args",
+        "description": "geoscada.client.event_args",
+        "isExtraImport": true,
+        "detail": "geoscada.client.event_args",
+        "documentation": {}
+    },
+    {
+        "label": "EventCode",
+        "importPath": "geoscada.client.event_code",
+        "description": "geoscada.client.event_code",
+        "isExtraImport": true,
+        "detail": "geoscada.client.event_code",
+        "documentation": {}
+    },
+    {
+        "label": "SERVER",
+        "kind": 5,
+        "importPath": "AddSpPubLinkToPoints",
+        "description": "AddSpPubLinkToPoints",
+        "peekOfCode": "SERVER = os.environ.get(\"GEOSCADA_SERVER\", \"\")\nUSERNAME = os.environ.get(\"GEOSCADA_USERNAME\", \"\")\nPASSWORD = os.environ.get(\"GEOSCADA_PASSWORD\", \"\")\nwith ConnectionManager(SERVER, 5481, \"ConnectionManager example\") as connection:\n    # Log on\n    # user = input('Enter Geo SCADA Username: ')\n    # We suggest using the pwinput module to hide the password\n    # passw = input('Enter Geo SCADA Password: ')\n    # user, passw = \"\", \"\"\n    connection.log_on(USERNAME, PASSWORD)",
+        "detail": "AddSpPubLinkToPoints",
+        "documentation": {}
+    },
+    {
+        "label": "USERNAME",
+        "kind": 5,
+        "importPath": "AddSpPubLinkToPoints",
+        "description": "AddSpPubLinkToPoints",
+        "peekOfCode": "USERNAME = os.environ.get(\"GEOSCADA_USERNAME\", \"\")\nPASSWORD = os.environ.get(\"GEOSCADA_PASSWORD\", \"\")\nwith ConnectionManager(SERVER, 5481, \"ConnectionManager example\") as connection:\n    # Log on\n    # user = input('Enter Geo SCADA Username: ')\n    # We suggest using the pwinput module to hide the password\n    # passw = input('Enter Geo SCADA Password: ')\n    # user, passw = \"\", \"\"\n    connection.log_on(USERNAME, PASSWORD)\n    # Query all objects with historic data",
+        "detail": "AddSpPubLinkToPoints",
+        "documentation": {}
+    },
+    {
+        "label": "PASSWORD",
+        "kind": 5,
+        "importPath": "AddSpPubLinkToPoints",
+        "description": "AddSpPubLinkToPoints",
+        "peekOfCode": "PASSWORD = os.environ.get(\"GEOSCADA_PASSWORD\", \"\")\nwith ConnectionManager(SERVER, 5481, \"ConnectionManager example\") as connection:\n    # Log on\n    # user = input('Enter Geo SCADA Username: ')\n    # We suggest using the pwinput module to hide the password\n    # passw = input('Enter Geo SCADA Password: ')\n    # user, passw = \"\", \"\"\n    connection.log_on(USERNAME, PASSWORD)\n    # Query all objects with historic data\n    q = connection.prepare_query(",
+        "detail": "AddSpPubLinkToPoints",
+        "documentation": {}
+    },
+    {
+        "label": "CreateTree",
+        "kind": 2,
+        "importPath": "CreateDataTable",
+        "description": "CreateDataTable",
+        "peekOfCode": "def CreateTree(connection):\n    folder = connection.find_object(\"SQL_DATA_TABLES.TestTables\")\n    if folder is None:\n        SQL_DATA_Tables  = connection.create_object(\"CGroup\",             0,                  \"SQL_DATA_TABLES\")\n        TestTables       = connection.create_object(\"CGroup\",             SQL_DATA_Tables.id, \"TestTables\"     )    \n    folder = connection.find_object(\"SQL_DATA_TABLES\")\n    table = connection.create_object(\"CDataTable\", folder.id, \"MainTable\")\n    connection.set_property(table.id, \"TableName\", Variant(var_type = VariantType.BStr, value = \"MainTable\"))\n    connection.set_property(table.id, \"Title\", Variant(var_type = VariantType.BStr, value =\"MainTable\"))    \n    # Add time field",
+        "detail": "CreateDataTable",
+        "documentation": {}
+    },
+    {
+        "label": "CreateTable",
+        "kind": 2,
+        "importPath": "CreateDataTable",
+        "description": "CreateDataTable",
+        "peekOfCode": "def CreateTable(connection, table_path, table_name, columns):\n    table = connection.find_object(f\"{table_path}.{table_name}\")\n    if table is None:\n        folder = connection.find_object(table_path)\n        table = connection.create_object(\"CDataTable\", folder.id, table_name)\n        #Create Fields (Columns)\n        #0=byte, 1=word, 2=long, 3=float, 4=double, 5=reference, 6=string, 7=Boolean, 9=time, 10=color, 12=unsigned word, 13=unsigned long, 15=long long, 16=unsigned long long\n        for col_name, col_type_code in columns:\n            connection.invoke_method(table.id, \"AddField\", [Variant(VariantType.BStr, col_name), Variant(VariantType.I4, col_type_code)])\n    #Assign \".TableName\"   and \".Title\"",
+        "detail": "CreateDataTable",
+        "documentation": {}
+    },
+    {
+        "label": "SERVER_ADDRESS",
+        "kind": 5,
+        "importPath": "CreateDataTable",
+        "description": "CreateDataTable",
+        "peekOfCode": "SERVER_ADDRESS = \"127.0.0.1\"\nSERVER_PORT = 5481\nCLIENT_NAME = 'Python Automation Test' \nUSERNAME = \"\"\nPASSWORD = \"\"\n# Main function uses ConnectionManager\nif __name__ == \"__main__\":\n    print(f\"Connecting to GeoSCADA Server at {SERVER_ADDRESS}:{SERVER_PORT}...\")\n    try:\n        with ConnectionManager(SERVER_ADDRESS, SERVER_PORT, CLIENT_NAME) as connection:",
+        "detail": "CreateDataTable",
+        "documentation": {}
+    },
+    {
+        "label": "SERVER_PORT",
+        "kind": 5,
+        "importPath": "CreateDataTable",
+        "description": "CreateDataTable",
+        "peekOfCode": "SERVER_PORT = 5481\nCLIENT_NAME = 'Python Automation Test' \nUSERNAME = \"\"\nPASSWORD = \"\"\n# Main function uses ConnectionManager\nif __name__ == \"__main__\":\n    print(f\"Connecting to GeoSCADA Server at {SERVER_ADDRESS}:{SERVER_PORT}...\")\n    try:\n        with ConnectionManager(SERVER_ADDRESS, SERVER_PORT, CLIENT_NAME) as connection:\n            print(\"Connection successful. Logging on...\")",
+        "detail": "CreateDataTable",
+        "documentation": {}
+    },
+    {
+        "label": "CLIENT_NAME",
+        "kind": 5,
+        "importPath": "CreateDataTable",
+        "description": "CreateDataTable",
+        "peekOfCode": "CLIENT_NAME = 'Python Automation Test' \nUSERNAME = \"\"\nPASSWORD = \"\"\n# Main function uses ConnectionManager\nif __name__ == \"__main__\":\n    print(f\"Connecting to GeoSCADA Server at {SERVER_ADDRESS}:{SERVER_PORT}...\")\n    try:\n        with ConnectionManager(SERVER_ADDRESS, SERVER_PORT, CLIENT_NAME) as connection:\n            print(\"Connection successful. Logging on...\")\n            connection.log_on(USERNAME, PASSWORD) # Log on using credentials",
+        "detail": "CreateDataTable",
+        "documentation": {}
+    },
+    {
+        "label": "USERNAME",
+        "kind": 5,
+        "importPath": "CreateDataTable",
+        "description": "CreateDataTable",
+        "peekOfCode": "USERNAME = \"\"\nPASSWORD = \"\"\n# Main function uses ConnectionManager\nif __name__ == \"__main__\":\n    print(f\"Connecting to GeoSCADA Server at {SERVER_ADDRESS}:{SERVER_PORT}...\")\n    try:\n        with ConnectionManager(SERVER_ADDRESS, SERVER_PORT, CLIENT_NAME) as connection:\n            print(\"Connection successful. Logging on...\")\n            connection.log_on(USERNAME, PASSWORD) # Log on using credentials\n            CreateTree(connection)",
+        "detail": "CreateDataTable",
+        "documentation": {}
+    },
+    {
+        "label": "PASSWORD",
+        "kind": 5,
+        "importPath": "CreateDataTable",
+        "description": "CreateDataTable",
+        "peekOfCode": "PASSWORD = \"\"\n# Main function uses ConnectionManager\nif __name__ == \"__main__\":\n    print(f\"Connecting to GeoSCADA Server at {SERVER_ADDRESS}:{SERVER_PORT}...\")\n    try:\n        with ConnectionManager(SERVER_ADDRESS, SERVER_PORT, CLIENT_NAME) as connection:\n            print(\"Connection successful. Logging on...\")\n            connection.log_on(USERNAME, PASSWORD) # Log on using credentials\n            CreateTree(connection)\n            CreateTable(connection, \"SQL_DATA_TABLES.TestTables\", \"Table_9\",[",
+        "detail": "CreateDataTable",
+        "documentation": {}
+    },
+    {
+        "label": "gs_create_object",
+        "kind": 2,
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "peekOfCode": "def gs_create_object( connection, parentname, objectname, objecttype):\n    # Find parent and create an object\n    if (parentname == '' or parentname == '$Root'):\n        parentid = 0\n        fullname = objectname\n    else:\n        P = connection.find_object( parentname)\n        parentid = P.id\n        fullname = parentname + '.' + objectname\n    G = connection.find_object( fullname)",
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "gs_create_group",
+        "kind": 2,
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "peekOfCode": "def gs_create_group( connection, parentname, groupname):\n    return gs_create_object( connection, parentname, groupname, \"CGroup\" )\n# Instance a template\ndef gs_instance_template( connection, instancepath, instancename, templatepath):\n    # Find template\n    T = connection.find_object( templatepath)\n    if (T == None):\n        print(f\"Can't find instance {templatepath} {str(e)}\", file=sys.stderr)\n        return None\n    # Find parent",
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "gs_instance_template",
+        "kind": 2,
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "peekOfCode": "def gs_instance_template( connection, instancepath, instancename, templatepath):\n    # Find template\n    T = connection.find_object( templatepath)\n    if (T == None):\n        print(f\"Can't find instance {templatepath} {str(e)}\", file=sys.stderr)\n        return None\n    # Find parent\n    if (parentname == '' or parentname == '$Root'):\n        parentid = 0\n        fullname = objectname",
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "gs_update_object",
+        "kind": 2,
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "peekOfCode": "def gs_update_object( connection, objectpath, objectname, propertyname, propertyvalue):\n    # Find parent\n    if (parentname == '' or parentname == '$Root'):\n        fullname = objectname\n    else:\n        fullname = parentname + '.' + objectname\n    G = connection.find_object( fullname)\n    if (G == None):\n        print(f\"Can't find {fullname} {str(e)}\", file=sys.stderr)\n        return None",
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "gs_copy_object",
+        "kind": 2,
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "peekOfCode": "def gs_copy_object( connection, parentname, objectname, sourcefullname):\n    # Find source\n    S = connection.find_object( sourcefullname)\n    if (S == None):\n        print(f\"Can't find instance {templatepath} {str(e)}\", file=sys.stderr)\n        return None\n    # Find parent and create an object\n    if (parentname == '' or parentname == '$Root'):\n        parentid = 0\n        fullname = objectname",
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "gs_set_static_location",
+        "kind": 2,
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "peekOfCode": "def gs_set_static_location( connection, full_name, lat, long):\n    O = connection.find_object( full_name)\n    # Set Geo Location Aggregate Configuration\n    A = connection.set_aggregate( O.id, \"GISLocationSource\", \"CGISLocationSrcStatic\")\n    # Set Geo location\n    connection.set_properties( O.id, [\n            (\"GISLocationSource.Latitude\", Variant(VariantType.R8, lat)),\n            (\"GISLocationSource.Longitude\", Variant(VariantType.R8, long))\n        ] )\n# Deletes the named item. Returns a list of error messages if error, True if success and False if not found",
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "gs_delete_object",
+        "kind": 2,
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "peekOfCode": "def gs_delete_object( connection, full_name):\n\tO = connection.find_object( full_name)\n\tif (O != None):\n\t\tforce = True\n\t\tresult = connection.delete_object(O.id, force)\n\t\tif (len(result) > 0):\n\t\t\treturn False # Error condition\n\t\telse:\n\t\t\treturn True\n\telse:",
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "\tO",
+        "kind": 5,
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "peekOfCode": "\tO = connection.find_object( full_name)\n\tif (O != None):\n\t\tforce = True\n\t\tresult = connection.delete_object(O.id, force)\n\t\tif (len(result) > 0):\n\t\t\treturn False # Error condition\n\t\telse:\n\t\t\treturn True\n\telse:\n\t\treturn False",
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tforce",
+        "kind": 5,
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "peekOfCode": "\t\tforce = True\n\t\tresult = connection.delete_object(O.id, force)\n\t\tif (len(result) > 0):\n\t\t\treturn False # Error condition\n\t\telse:\n\t\t\treturn True\n\telse:\n\t\treturn False",
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tresult",
+        "kind": 5,
+        "importPath": "GSConfigFunc",
+        "description": "GSConfigFunc",
+        "peekOfCode": "\t\tresult = connection.delete_object(O.id, force)\n\t\tif (len(result) > 0):\n\t\t\treturn False # Error condition\n\t\telse:\n\t\t\treturn True\n\telse:\n\t\treturn False",
+        "detail": "GSConfigFunc",
+        "documentation": {}
+    },
+    {
+        "label": "GSEEncoder",
+        "kind": 6,
+        "importPath": "gsgit",
+        "description": "gsgit",
+        "peekOfCode": "class GSEEncoder(json.JSONEncoder):\n    def default(self, o):\n        if isinstance(o, datetime.datetime):\n            return o.isoformat()\n        return super().default(o)\n# Helper function to read the as-selected aggregate type\ndef get_configured_aggr_class(obj_full_name, aggr_field):\n    obj = interface.find_object(obj_full_name)\n    if obj == None:\n        return None",
+        "detail": "gsgit",
+        "documentation": {}
+    },
+    {
+        "label": "get_configured_aggr_class",
+        "kind": 2,
+        "importPath": "gsgit",
+        "description": "gsgit",
+        "peekOfCode": "def get_configured_aggr_class(obj_full_name, aggr_field):\n    obj = interface.find_object(obj_full_name)\n    if obj == None:\n        return None\n    aggr_info = next(filter(lambda aggr: aggr.name == aggr_field, obj.aggregates), None)\n    if aggr_info == None or aggr_info.index == 4294967295:\n        return None\n    return aggr_info.classes[aggr_info.index]\n# Get aggregate data separately\ndef get_agg_properties(",
+        "detail": "gsgit",
+        "documentation": {}
+    },
+    {
+        "label": "get_agg_properties",
+        "kind": 2,
+        "importPath": "gsgit",
+        "description": "gsgit",
+        "peekOfCode": "def get_agg_properties(\n    obj: ObjectDetails, a: str, aggtype: str\n) -> Optional[list[tuple[str, list[tuple[str, Variant]]]]]:\n    agg_def = interface.get_class(aggtype)\n    agg_prop_names = [\n        a + \".\" + p.name\n        for p in agg_def.properties\n        if p.is_writable and p.property_type == PropertyType.Configuration\n    ]\n    property_values = []",
+        "detail": "gsgit",
+        "documentation": {}
+    },
+    {
+        "label": "get_properties",
+        "kind": 2,
+        "importPath": "gsgit",
+        "description": "gsgit",
+        "peekOfCode": "def get_properties(\n    obj: ObjectDetails, class_name: str\n) -> list[tuple[str, list[tuple[str, Variant]]]] | None:\n    metadata = interface.get_class(class_name)\n    property_names = [\n        p.name\n        for p in metadata.properties\n        if p.is_writable and p.property_type == PropertyType.Configuration\n    ]\n    property_values = []",
+        "detail": "gsgit",
+        "documentation": {}
+    },
+    {
+        "label": "process_object",
+        "kind": 2,
+        "importPath": "gsgit",
+        "description": "gsgit",
+        "peekOfCode": "def process_object(obj_id: int, is_new_repo: bool):\n    constrained, object_list = interface.list_objects_ex(\n        obj_id, False, [], \"\", True, 10000\n    )\n    for obj in object_list:\n        data = {\n            \"id\": obj.id,\n            \"name\": obj.name,\n            \"class_name\": obj.class_name,\n            \"properties\": [],",
+        "detail": "gsgit",
+        "documentation": {}
+    },
+    {
+        "label": "repo_location",
+        "kind": 5,
+        "importPath": "gsgit",
+        "description": "gsgit",
+        "peekOfCode": "repo_location = \"C:/code/geo-scada/git-repo\"\n# Custom JSON encoder for the date/time format\nclass GSEEncoder(json.JSONEncoder):\n    def default(self, o):\n        if isinstance(o, datetime.datetime):\n            return o.isoformat()\n        return super().default(o)\n# Helper function to read the as-selected aggregate type\ndef get_configured_aggr_class(obj_full_name, aggr_field):\n    obj = interface.find_object(obj_full_name)",
+        "detail": "gsgit",
+        "documentation": {}
+    },
+    {
+        "label": "new_repo",
+        "kind": 5,
+        "importPath": "gsgit",
+        "description": "gsgit",
+        "peekOfCode": "new_repo = os.path.exists(repo_location)\nif new_repo:\n    repo = Repo.init(repo_location)\nelse:\n    os.makedirs(repo_location, exist_ok=True)\n    repo = Repo(repo_location)\nSERVER = os.environ.get(\"GEOSCADA_SERVER\", \"\")\nUSERNAME = os.environ.get(\"GEOSCADA_USERNAME\", \"\")\nPASSWORD = os.environ.get(\"GEOSCADA_PASSWORD\", \"\")\nprint(f\"Connecting to Geo SCADA Server at {SERVER} with user {USERNAME}\")",
+        "detail": "gsgit",
+        "documentation": {}
+    },
+    {
+        "label": "SERVER",
+        "kind": 5,
+        "importPath": "gsgit",
+        "description": "gsgit",
+        "peekOfCode": "SERVER = os.environ.get(\"GEOSCADA_SERVER\", \"\")\nUSERNAME = os.environ.get(\"GEOSCADA_USERNAME\", \"\")\nPASSWORD = os.environ.get(\"GEOSCADA_PASSWORD\", \"\")\nprint(f\"Connecting to Geo SCADA Server at {SERVER} with user {USERNAME}\")\nwith ConnectionManager(\n    SERVER, 5481, \"gsgit\", ConnectFlags.IsCompressedLink\n) as interface:\n    interface.log_on(USERNAME, PASSWORD)\n    # Name of group to be scanned for items\n    # o = interface.find_object(\"Example Projects.Oil and Gas\")",
+        "detail": "gsgit",
+        "documentation": {}
+    },
+    {
+        "label": "USERNAME",
+        "kind": 5,
+        "importPath": "gsgit",
+        "description": "gsgit",
+        "peekOfCode": "USERNAME = os.environ.get(\"GEOSCADA_USERNAME\", \"\")\nPASSWORD = os.environ.get(\"GEOSCADA_PASSWORD\", \"\")\nprint(f\"Connecting to Geo SCADA Server at {SERVER} with user {USERNAME}\")\nwith ConnectionManager(\n    SERVER, 5481, \"gsgit\", ConnectFlags.IsCompressedLink\n) as interface:\n    interface.log_on(USERNAME, PASSWORD)\n    # Name of group to be scanned for items\n    # o = interface.find_object(\"Example Projects.Oil and Gas\")\n    o: ObjectDetails | None = interface.find_object(\"Python Samples\")",
+        "detail": "gsgit",
+        "documentation": {}
+    },
+    {
+        "label": "PASSWORD",
+        "kind": 5,
+        "importPath": "gsgit",
+        "description": "gsgit",
+        "peekOfCode": "PASSWORD = os.environ.get(\"GEOSCADA_PASSWORD\", \"\")\nprint(f\"Connecting to Geo SCADA Server at {SERVER} with user {USERNAME}\")\nwith ConnectionManager(\n    SERVER, 5481, \"gsgit\", ConnectFlags.IsCompressedLink\n) as interface:\n    interface.log_on(USERNAME, PASSWORD)\n    # Name of group to be scanned for items\n    # o = interface.find_object(\"Example Projects.Oil and Gas\")\n    o: ObjectDetails | None = interface.find_object(\"Python Samples\")\n    if o != None:",
+        "detail": "gsgit",
+        "documentation": {}
+    },
+    {
+        "label": "ListACLs",
+        "kind": 2,
+        "importPath": "ListAllGroupACLs",
+        "description": "ListAllGroupACLs",
+        "peekOfCode": "def ListACLs( DBObjid, name):\n    inheritedV = connection.get_property(DBObjid, \"ACLInherited\")\n    if (inheritedV.value == False):\n        ACL = connection.get_security(DBObjid)\n        print( \"Object\", name)\n        print( \"    ACL\", len(ACL), \"entries\")\n        for acl in ACL:\n            print( \"        User:\", acl.user_name, \", \", acl.permissions),\n        return len(ACL)\n    else:",
+        "detail": "ListAllGroupACLs",
+        "documentation": {}
+    },
+    {
+        "label": "RecurseACLs",
+        "kind": 2,
+        "importPath": "ListAllGroupACLs",
+        "description": "ListAllGroupACLs",
+        "peekOfCode": "def RecurseACLs( groupid):\n    c = 0\n    # Get all child members of the root\n    Children = connection.list_objects( \"\", \"\", groupid, True)\n    # get all children\n    for ChildObj in Children:\n        c += ListACLs( ChildObj.id, ChildObj.full_name)\n        # recurse down groups\n        ##print(f\"{ChildObj.full_name} <{ChildObj.class_name}>\")\n        if (ChildObj.class_name == \"CGroup\"):",
+        "detail": "ListAllGroupACLs",
+        "documentation": {}
+    },
+    {
+        "label": "GetRefs",
+        "kind": 2,
+        "importPath": "ListAllReferencesToGroup",
+        "description": "ListAllReferencesToGroup",
+        "peekOfCode": "def GetRefs( MyObject, GroupName):\n    c = 0\n    # List references here\n    ReferencedObjects = connection.get_references_to(MyObject.id)\n    # for all referenced\n    for RefObj in ReferencedObjects:\n        # if the path lies outside our group\n        if (not RefObj.full_name.startswith( GroupName + \".\")):\n            print( \"Object: \", MyObject.full_name, \"(\" + MyObject.class_name +\")\")\n            print( \"  Reference: \", RefObj.full_name, \"(\"+RefObj.class_name +\")\")",
+        "detail": "ListAllReferencesToGroup",
+        "documentation": {}
+    },
+    {
+        "label": "ListReferences",
+        "kind": 2,
+        "importPath": "ListAllReferencesToGroup",
+        "description": "ListAllReferencesToGroup",
+        "peekOfCode": "def ListReferences( GroupToRef, GroupName):\n    c = 0\n    # Get all child members of the root\n    Children = connection.list_objects( \"\", \"\", GroupToRef.id, True)\n    # get all children\n    for ChildObj in Children:\n        c += GetRefs( ChildObj, GroupName)\n        # recurse down groups\n        if (ChildObj.class_name == \"CGroup\"):\n            c += ListReferences(ChildObj, GroupName)",
+        "detail": "ListAllReferencesToGroup",
+        "documentation": {}
+    },
+    {
+        "label": "on_event_received",
+        "kind": 2,
+        "importPath": "SubscribeEvents",
+        "description": "SubscribeEvents",
+        "peekOfCode": "def on_event_received(event_code: EventCode, args: EventsUpdatedEventArgs):\n    print(\"Event received\")\n    for update in args.updates:\n        print(update.source,\" -\", update.message)\n        #if update.source == obj_details.full_name:\n            #event_received.set()\nwith ConnectionManager('localhost', 5481, 'Example Python client') as connection:\n    if username != '':\n        connection.log_on(username, password)\n    obj_details = connection.lookup_object(point_id)",
+        "detail": "SubscribeEvents",
+        "documentation": {}
+    },
+    {
+        "label": "username",
+        "kind": 5,
+        "importPath": "SubscribeEvents",
+        "description": "SubscribeEvents",
+        "peekOfCode": "username = ''\npassword = ''\n# Specify the point you want to watch, by Id\npoint_id = 1561\nnew_value = 2.0\nobj_details = None\nevent_received = threading.Event()\ndef on_event_received(event_code: EventCode, args: EventsUpdatedEventArgs):\n    print(\"Event received\")\n    for update in args.updates:",
+        "detail": "SubscribeEvents",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "SubscribeEvents",
+        "description": "SubscribeEvents",
+        "peekOfCode": "password = ''\n# Specify the point you want to watch, by Id\npoint_id = 1561\nnew_value = 2.0\nobj_details = None\nevent_received = threading.Event()\ndef on_event_received(event_code: EventCode, args: EventsUpdatedEventArgs):\n    print(\"Event received\")\n    for update in args.updates:\n        print(update.source,\" -\", update.message)",
+        "detail": "SubscribeEvents",
+        "documentation": {}
+    },
+    {
+        "label": "point_id",
+        "kind": 5,
+        "importPath": "SubscribeEvents",
+        "description": "SubscribeEvents",
+        "peekOfCode": "point_id = 1561\nnew_value = 2.0\nobj_details = None\nevent_received = threading.Event()\ndef on_event_received(event_code: EventCode, args: EventsUpdatedEventArgs):\n    print(\"Event received\")\n    for update in args.updates:\n        print(update.source,\" -\", update.message)\n        #if update.source == obj_details.full_name:\n            #event_received.set()",
+        "detail": "SubscribeEvents",
+        "documentation": {}
+    },
+    {
+        "label": "new_value",
+        "kind": 5,
+        "importPath": "SubscribeEvents",
+        "description": "SubscribeEvents",
+        "peekOfCode": "new_value = 2.0\nobj_details = None\nevent_received = threading.Event()\ndef on_event_received(event_code: EventCode, args: EventsUpdatedEventArgs):\n    print(\"Event received\")\n    for update in args.updates:\n        print(update.source,\" -\", update.message)\n        #if update.source == obj_details.full_name:\n            #event_received.set()\nwith ConnectionManager('localhost', 5481, 'Example Python client') as connection:",
+        "detail": "SubscribeEvents",
+        "documentation": {}
+    },
+    {
+        "label": "obj_details",
+        "kind": 5,
+        "importPath": "SubscribeEvents",
+        "description": "SubscribeEvents",
+        "peekOfCode": "obj_details = None\nevent_received = threading.Event()\ndef on_event_received(event_code: EventCode, args: EventsUpdatedEventArgs):\n    print(\"Event received\")\n    for update in args.updates:\n        print(update.source,\" -\", update.message)\n        #if update.source == obj_details.full_name:\n            #event_received.set()\nwith ConnectionManager('localhost', 5481, 'Example Python client') as connection:\n    if username != '':",
+        "detail": "SubscribeEvents",
+        "documentation": {}
+    },
+    {
+        "label": "event_received",
+        "kind": 5,
+        "importPath": "SubscribeEvents",
+        "description": "SubscribeEvents",
+        "peekOfCode": "event_received = threading.Event()\ndef on_event_received(event_code: EventCode, args: EventsUpdatedEventArgs):\n    print(\"Event received\")\n    for update in args.updates:\n        print(update.source,\" -\", update.message)\n        #if update.source == obj_details.full_name:\n            #event_received.set()\nwith ConnectionManager('localhost', 5481, 'Example Python client') as connection:\n    if username != '':\n        connection.log_on(username, password)",
+        "detail": "SubscribeEvents",
+        "documentation": {}
+    }
+]
